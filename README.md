@@ -22,13 +22,13 @@ Add this code to your readme file
 ```
 
 ## Html5 badge
-<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/d88dc5d4-e004-47b8-811d-40bf412a8fb1">
+<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
 
 
 Add this code to your readme file
 ```
 <!-- Html5 -->
-<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/d88dc5d4-e004-47b8-811d-40bf412a8fb1">
+<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
 ```
 
 
