@@ -21,6 +21,18 @@ Add this code to your readme file
 <img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 ```
 
+## Html5 badge
+<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/d88dc5d4-e004-47b8-811d-40bf412a8fb1">
+
+
+Add this code to your readme file
+```
+<!-- Html5 -->
+<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/d88dc5d4-e004-47b8-811d-40bf412a8fb1">
+```
+
+
+
 # How to contribute or add badges
 create a new issue and tell me what badge you want and add a photo
 
