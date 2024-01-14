@@ -20,3 +20,4 @@ Add this code to your readme file
 ```
 
 # How to contribute or add badges
+create a new issue and tell me what badge you want and add a photo
