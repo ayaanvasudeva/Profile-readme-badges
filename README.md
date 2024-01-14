@@ -5,5 +5,10 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 Cool badges that I made that you can use in your profile readme.
 # How to contribute or add badges
