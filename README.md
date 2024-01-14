@@ -35,5 +35,6 @@ Add this code to your readme file
 
 # How to contribute or add badges
 create a new issue and tell me what badge you want and add a photo
-
+# Personalisation
+You can change the width and height of the badges depending on how you like it best
 <h3>All badges created by me and made on figma</h3>
