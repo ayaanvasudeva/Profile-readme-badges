@@ -1,4 +1,24 @@
 <h1>How to use</h1>
+## Css3 badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
+
+
+Add this code to your readme file
+```
+<!-- Css3 -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
+```
+
+## Html5 badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
+
+
+Add this code to your readme file
+```
+<!-- Html5 -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
+```
+
 
 ## Javascript badge
 <img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/271d9505-a7e3-44a4-a4bb-8e3114c1d4f9">
@@ -20,27 +40,6 @@ Add this code to your readme file
 <!-- Python -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 ```
-
-## Html5 badge
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
-
-
-Add this code to your readme file
-```
-<!-- Html5 -->
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
-```
-
-## Css3 badge
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
-
-
-Add this code to your readme file
-```
-<!-- Css3 -->
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
-```
-
 
 
 # How to contribute or add badges
