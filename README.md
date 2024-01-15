@@ -145,6 +145,17 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/a2d3cdc9-3d14-4bf7-b4f6-3cb8e6a17bed">
 ```
 
+## Replit
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/33d11b8d-ffc6-4d96-a430-3381a483861e">
+
+
+Add this code to your readme file
+```
+<!-- Replit -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/33d11b8d-ffc6-4d96-a430-3381a483861e">
+```
+
+
 
 ## Three.js badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
