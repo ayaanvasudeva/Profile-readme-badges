@@ -123,6 +123,17 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 ```
 
+## P5.js
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/a2d3cdc9-3d14-4bf7-b4f6-3cb8e6a17bed">
+
+
+Add this code to your readme file
+```
+<!-- P5.js -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/a2d3cdc9-3d14-4bf7-b4f6-3cb8e6a17bed">
+```
+
+
 ## Three.js badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
 
