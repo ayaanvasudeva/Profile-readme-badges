@@ -92,6 +92,15 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7d1bc272-eed5-4fbe-a232-05741f843abb">
 ```
 
+## Pygame badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/9ba7618c-e4f3-483a-9b1f-1bab43f54c7b">
+
+
+Add this code to your readme file
+```
+<!-- Pygame -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/9ba7618c-e4f3-483a-9b1f-1bab43f54c7b">
+```
 
 ## Python badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
