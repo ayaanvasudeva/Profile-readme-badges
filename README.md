@@ -62,6 +62,16 @@ Add this code to your readme file
 <img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/4a660ef5-2b60-44c2-a383-0d23c461f5f7">
 ```
 
+## Kaboom.js badge
+<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/b84b96ca-47a6-4958-90f8-81ffc7b6e06d">
+
+
+Add this code to your readme file
+```
+<!-- Kaboom.js -->
+<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/b84b96ca-47a6-4958-90f8-81ffc7b6e06d">
+```
+
 ## Node.js badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/560d9504-d477-4f27-9467-c157c83629cf">
 
