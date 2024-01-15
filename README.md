@@ -73,6 +73,15 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 ```
 
+## Three.js badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
+
+
+Add this code to your readme file
+```
+<!-- Three.js -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
+```
 
 
 # How to contribute or add badges
