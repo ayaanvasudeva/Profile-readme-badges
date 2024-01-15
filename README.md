@@ -1,5 +1,16 @@
 <h1>How to use</h1>
 
+## Bootstrap badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/5a7b765d-a8d3-4a09-aa0e-5dea2c78faa6">
+
+
+Add this code to your readme file
+```
+<!-- Bootstrap -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/5a7b765d-a8d3-4a09-aa0e-5dea2c78faa6">
+```
+
+
 ## Css3 badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
 
