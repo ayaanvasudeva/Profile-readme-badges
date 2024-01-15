@@ -156,6 +156,18 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ce6ba520-40a6-41b2-b77e-8bb43daf17db">
 ```
 # Tools
+
+## Figma badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/e3c3ffb4-8299-411c-89a4-6a1b3a70e2f7">
+
+
+Add this code to your readme file
+```
+<!-- Figma -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/e3c3ffb4-8299-411c-89a4-6a1b3a70e2f7">
+```
+
+
 ## Github badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
 
