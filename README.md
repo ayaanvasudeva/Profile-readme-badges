@@ -122,6 +122,17 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
 ```
 
+## Tkinter badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ce6ba520-40a6-41b2-b77e-8bb43daf17db">
+
+
+Add this code to your readme file
+```
+<!-- Tkinter -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ce6ba520-40a6-41b2-b77e-8bb43daf17db">
+```
+
+
 
 # How to contribute or add badges
 create a new issue and tell me what badge you want and add a photo
