@@ -188,6 +188,15 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/33d11b8d-ffc6-4d96-a430-3381a483861e">
 ```
 
+## Visual studio code badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ed250cf1-0d12-4360-9ea1-434121f939b0">
+
+
+Add this code to your readme file
+```
+<!-- VS code -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ed250cf1-0d12-4360-9ea1-434121f939b0">
+```
 
 
 # How to contribute or add badges
