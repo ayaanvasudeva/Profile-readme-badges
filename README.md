@@ -42,6 +42,18 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ac124a75-707b-4fd2-b05a-24600fd19663">
 ```
 
+## Github badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
+
+
+Add this code to your readme file
+```
+<!-- Github -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
+```
+
+
+
 ## Html5 badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
 
