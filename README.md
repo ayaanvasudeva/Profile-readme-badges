@@ -44,13 +44,13 @@ Add this code to your readme file
 ```
 
 ## Node.js badge
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/01e90847-180f-4fdc-a8a3-956cf3c259c2">
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/560d9504-d477-4f27-9467-c157c83629cf">
 
 
 Add this code to your readme file
 ```
 <!-- Node.js -->
-<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/01e90847-180f-4fdc-a8a3-956cf3c259c2">
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/560d9504-d477-4f27-9467-c157c83629cf">
 ```
 
 
