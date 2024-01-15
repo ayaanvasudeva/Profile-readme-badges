@@ -53,13 +53,13 @@ Add this code to your readme file
 ```
 
 ## jQuery badge
-<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/1e627fa1-ff8b-4839-876a-e9447b4251f0">
+<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/4a660ef5-2b60-44c2-a383-0d23c461f5f7">
 
 
 Add this code to your readme file
 ```
 <!-- jQuery -->
-<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/1e627fa1-ff8b-4839-876a-e9447b4251f0">
+<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/4a660ef5-2b60-44c2-a383-0d23c461f5f7">
 ```
 
 ## Node.js badge
