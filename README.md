@@ -21,6 +21,15 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/695cfc93-dde2-4a59-83aa-319796a5bcbb">
 ```
 
+## Express.js badge
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ac124a75-707b-4fd2-b05a-24600fd19663">
+
+
+Add this code to your readme file
+```
+<!-- Express.js -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ac124a75-707b-4fd2-b05a-24600fd19663">
+```
 
 ## Html5 badge
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
