@@ -198,6 +198,16 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ed250cf1-0d12-4360-9ea1-434121f939b0">
 ```
 
+## Visual studio code badge (D)
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/849faa5f-16db-4dcf-b7b8-9606cc073b09">
+
+
+Add this code to your readme file
+```
+<!-- VS code (D) -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/849faa5f-16db-4dcf-b7b8-9606cc073b09">
+```
+
 
 # How to contribute or add badges
 create a new issue and tell me what badge you want and add a photo
