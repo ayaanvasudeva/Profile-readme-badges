@@ -178,6 +178,18 @@ Add this code to your readme file
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
 ```
 
+## Postman (L)
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/SuperSaiyanCoding/assets/112682624/28cad628-d41e-4c7e-8b54-9d085db9631c">
+
+
+Add this code to your readme file
+```
+<!-- Postman (L) -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/SuperSaiyanCoding/assets/112682624/28cad628-d41e-4c7e-8b54-9d085db9631c">
+```
+
+
+
 ## Replit badge (L)
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/33d11b8d-ffc6-4d96-a430-3381a483861e">
 
